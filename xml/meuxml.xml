@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pessoas>
+	<pessoa>
+		<nome>Alex</nome>
+		<idade>20</idade>
+		<email>alex@x.com</email>
+	</pessoa>
+	
+	<pessoa>
+		<nome>Douglas</nome>
+		<idade>20</idade>
+		<email>douglas@x.com</email>
+	</pessoa>
+	
+	<pessoa>
+		<nome>Anderson</nome>
+		<idade>33</idade>
+		<email>anderson@x.com</email>
+	</pessoa>
+	
+	<pessoa>
+		<nome>Anastáááácio</nome>
+		<idade>29</idade>
+		<email>anastacio@x.com</email>
+	</pessoa>
+	
+	<pessoa>
+		<nome>Reiner</nome>
+		<idade>36</idade>
+		<email>r@i.com</email>
+	</pessoa>
+</pessoas>
